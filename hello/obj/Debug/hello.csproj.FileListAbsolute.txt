@@ -1,0 +1,11 @@
+C:\Users\Jordan\source\repos\hello\hello\bin\Debug\hello.exe.config
+C:\Users\Jordan\source\repos\hello\hello\bin\Debug\hello.exe
+C:\Users\Jordan\source\repos\hello\hello\bin\Debug\hello.pdb
+C:\Users\Jordan\source\repos\hello\hello\obj\Debug\hello.csproj.AssemblyReference.cache
+C:\Users\Jordan\source\repos\hello\hello\obj\Debug\hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jordan\source\repos\hello\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\hello\hello\obj\Debug\hello.exe
+C:\Users\Jordan\source\repos\hello\hello\obj\Debug\hello.pdb
+C:\Users\Jordan\source\repos\hello\hello\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jordan\source\repos\hello\hello\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jordan\source\repos\hello\hello\obj\Debug\hello.csproj.CopyComplete
