@@ -24,7 +24,7 @@ namespace hello
                 Console.Write("Enter Password: ");
                 string password = Console.ReadLine();
 
-                string url = "http://localhost:8080/";
+                string url = "http://localhost:8080/test";
                 var wb = new WebClient();
 
                 var data = new NameValueCollection();
@@ -42,7 +42,10 @@ namespace hello
 
             if(keepProgAlive == "true")
             {
-                Console.WriteLine($"Welcome to your account: {username}");
+                SuccessfulLogin loggedIn = new SuccessfulLogin();
+                loggedIn.mainMenu(username);
+
+                
             }
 
             while(keepProgAlive == "true")
