@@ -7,7 +7,7 @@ This is a really simple login system that is being used as a learning project to
 
 ## To Do
 - ~~Create basic app~~
-- Choose and create a database (sql or noSql)
+- ~~Choose and create a database (sql or noSql)~~
 - Create authentication system
 - Separate logic into a better structure
 - Port from node.js to .net to compare the diffference
